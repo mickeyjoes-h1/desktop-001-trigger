@@ -1,3 +1,3 @@
 [submodule "x/y"]
 	path = A/modules/x
-	url = /home/mickey/Dev/HackerOne/GitHub/pocs/desktop-001_clone-protection-bypass/e2e/work/mickeyjoes-h1_20260308_115259/desktop-001-hook
+	url = https://github.com/mickeyjoes-h1/desktop-001-hook.git
